@@ -1,4 +1,4 @@
 # bootcamp_project
-The project I produced after 2 weeks of coding.
+The project I produced after completing the 2 week coding bootcamp.
 
 Name: Anzal Salat
